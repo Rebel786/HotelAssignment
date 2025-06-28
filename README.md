@@ -153,13 +153,7 @@ npm test -w backend
 
 ---
 
-## 📄 License
 
-**ISC** © 2025 Your Name
 
-```
 
-::contentReference[oaicite:1]{index=1}
-```
 
-[1]: https://learn.temporal.io/getting_started/typescript/dev_environment/ "Set up a local development environment for Temporal and TypeScript | Learn Temporal"
